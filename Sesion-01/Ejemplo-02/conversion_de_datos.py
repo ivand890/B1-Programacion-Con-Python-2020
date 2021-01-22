@@ -3,7 +3,7 @@ numero1 = "100"
 numero2 = "3.14159"
 print(type(numero1))
 
-#Para convertir a entero 
+#Para convertir a entero
 entero = int(numero1)
 print(type(entero))
 

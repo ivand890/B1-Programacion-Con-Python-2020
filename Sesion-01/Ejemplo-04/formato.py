@@ -1,6 +1,6 @@
 
 #Format sirve para añadir variables dentro de una cadena durante la ejecución
-nombre = "Luis"  
+nombre = "Luis"
 print("Hola, mi nombre es {}".format(nombre)) #'Hola!, mi nombre es Luis'
 
 #Incluso se pueden agregar variables que no son cadenas

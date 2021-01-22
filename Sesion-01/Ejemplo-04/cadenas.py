@@ -1,13 +1,14 @@
 
-# Esto es una cadena                                                                                                                                                                 
-d = "Hola mundo"                                                                                                                                                                     
+# Esto es una cadena
+d = "Hola mundo"
 
-# Podemos comprobar el dato con type(), en inglés se les conoce como string                                                                                                                                              
+# Podemos comprobar el dato con type(), en inglés se les conoce como string
 print(type(d))
 
-# Podemos utilizar comillas simples, o tres comillas dobles                                                                                                                         
+# Podemos utilizar comillas simples, o tres comillas dobles
 e = 'Saludos'
-f = """What's your name?"""
+f = """What's your name?
+Mi name is Ivan"""
 
 #Las cadenas pueden tener unicamente 1 caracter, o incluso 0
 un_caracter = 'a'
