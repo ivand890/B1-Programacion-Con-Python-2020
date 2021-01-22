@@ -1,0 +1,5 @@
+# vscode settings
+.vscode
+
+#test files
+test*.py
