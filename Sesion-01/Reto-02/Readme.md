@@ -1,14 +1,14 @@
- 
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
+
+<!-- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  -->
+
 ## Operadores
 
-### OBJETIVO 
+### OBJETIVO
 
 - Usar operadores aritmeticos y lógicos
 
-#### REQUISITOS 
+#### REQUISITOS
 
 1. Python 3
 
@@ -18,7 +18,7 @@ agrega el programa que se desarrollara con backticks> [agrega la sesion con back
 	- Resta usando el operador -
 	- Modulo usando el operador %
 - Ademas realizar el or entre un valor true y un false
-	
+
 
 <details>
 	#Adquiere los datos
@@ -42,6 +42,6 @@ agrega el programa que se desarrollara con backticks> [agrega la sesion con back
 	dato2 = False
 	print("Operacion or de un true y un false ")
 	print(dato1 or dato2)
-</details> 
+</details>
 
 

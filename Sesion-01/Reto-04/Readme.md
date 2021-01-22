@@ -1,13 +1,9 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
 ## Precio de helado
-### OBJETIVO 
+### OBJETIVO
 
 - El alumno hará uso de condicionales
 
-#### REQUISITOS 
+#### REQUISITOS
 
 1. Python 3
 
@@ -40,7 +36,7 @@ En caso de introducir otro topping, se le debe decir al cliente que el producto 
 		print("producto no disponible")
 
 	print("El precio es ${}".format(precio))
-</details> 
+</details>
 
 
 
